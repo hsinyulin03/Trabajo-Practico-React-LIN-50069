@@ -29,7 +29,7 @@ Además, se incorporaron conceptos de Bootstrap para el estilizado y diseño res
 ### Productos cargados
 ![image](https://github.com/user-attachments/assets/64038339-820d-4304-9f9f-80022148ffb6)
 
-Se deja algunos links de algunas hamburguesas, papas, gaseosas que puden ser útiles al momento de la ejecucion del proyecto.
+Se deja algunos links de algunas hamburguesas, papas, gaseosas que puden ser útiles al momento de la ejecución del proyecto.
 
 #### HAMBURGUESAS
 
